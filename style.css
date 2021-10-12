@@ -1,0 +1,15 @@
+body {
+  background-color: #EDEDED;
+}
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  background-color: white;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+
+}
+h2 {
+  text-align: center;
+  color: black;
+}
